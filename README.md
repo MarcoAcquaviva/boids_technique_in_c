@@ -10,7 +10,7 @@ Open your terminal and go to the directory path then copy and paste this string:
 clang -I SDL2-2.0.10\include\ -L SDL2-2.0.10\lib\x64\ -l SDL2 -o main.exe *.c
 ```
 
-####  You must have clang in ur computer, [you can find it here].(https://releases.llvm.org/)
+####  You must have clang by @LLVM in ur computer, [you can find it here].(https://releases.llvm.org/)
 
 
 # How It Works
